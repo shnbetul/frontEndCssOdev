@@ -1,0 +1,28 @@
+.list-style-position{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+h1{
+    color:lightcoral
+}
+.a{
+    margin-left: auto;
+    margin-right: auto;
+}
+body
+{
+text-align: center;
+
+}
+.ortalama{
+    width: 100px; ;
+}
+h4{
+margin-bottom: auto;
+}
+.font-color{
+background-color:navajowhite;
+}
+.k-arka{
+   background-color: salmon;
+}
